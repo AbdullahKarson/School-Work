@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz Builder - Abdullah Karson</string>
+    <string name="welcomeText">Welcome to the Quiz</string>
+    <string name="askNameView">Enter your Name Here:</string>
+    <string name="btnStartQuiz">Start Quiz</string>
+    <string name="startQuizView">Quiz</string>
+    <string name="userNameView">"Name:"</string>
+    <string name="scoreView">Score:</string>
+    <string name="startButton">Start Quiz</string>
+    <string name="questionNum">Question Number:</string>
+    <string name="endHeader">You have Completed the Quiz!</string>
+    <string name="scoreHeader">Your Score:</string>
+    <string name="btnExit">Exit Quiz</string>
+</resources>

@@ -1,0 +1,10 @@
+Capital of England-London
+Capital of Germany-Berlin
+Capital of Canada-Ottawa
+Capital of US-Washington D.C.
+Capital of Syria-Damascus
+Capital of Brazil-Brasilia
+Capital of Poland-Warsaw
+Capital of Vietnam-Hanoi
+Capital of China-Beijing
+Capital of Nepal-Kathmandu
